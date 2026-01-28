@@ -1,0 +1,10 @@
+# Файлы настроек и секреты
+config.ini
+*.session
+*.session-journal
+
+# Папки данных и окружения
+data/
+.idea/
+.venv/
+__pycache__/
